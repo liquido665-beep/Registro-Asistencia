@@ -1,9 +1,5 @@
 id_asignacion,id_usuario,id_nivel,asignatura,periodo_academico
 ASG-501,U-102,N-101,Matemáticas,2026
-ASG-502,U-102,N-102,RPC,2026
+ASG-502,U-102,N-102,Matemáticas,2026
 ASG-503,U-103,N-101,Lenguaje y Comunicación,2026
-ASG-504,U-103,N-103,Ciencias Sociales,2026
-ASG-505,U-104,N-101,Ciencias Naturales,2026
-ASG-506,U-104,N-102,PC,2026
-ASG-507,U-105,N-103,Inglés,2026
-ASG-508,U-105,N-104,Educación Ciudadana,2026
+ASG-504,U-103,N-103,Historia y Geografía,2026
