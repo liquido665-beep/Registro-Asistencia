@@ -1,0 +1,6 @@
+id_estudiante,rut_dni,nombres,apellidos,id_nivel,email_apoderado
+E-1001,23456789-1,Lucas,González Pérez,N-101,apoderado.gonzalez@gmail.com
+E-1002,23456789-2,Sofía,Rodríguez Silva,N-101,apoderado.rodriguez@gmail.com
+E-1003,23456789-3,Mateo,Fernández López,N-101,apoderado.fernandez@gmail.com
+E-1004,23456789-4,Valentina,Morales Díaz,N-102,apoderado.morales@gmail.com
+E-1005,23456789-5,Benjamín,Castro Torres,N-102,apoderado.castro@gmail.com

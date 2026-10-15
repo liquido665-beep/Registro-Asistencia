@@ -1,0 +1,6 @@
+id_usuario,email,nombre_completo,rol,estado
+U-101,admin.colegio@institucion.edu,Carlos Mendoza,Administrador,Activo
+U-102,profesor.perez@institucion.edu,Juan Pérez,Docente,Activo
+U-103,profesora.gomez@institucion.edu,María Gómez,Docente,Activo
+U-104,director.silva@institucion.edu,Roberto Silva,Directivo,Activo
+U-105,inspector.ruiz@institucion.edu,Ana Ruiz,Inspector,Activo
