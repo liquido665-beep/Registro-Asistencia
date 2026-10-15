@@ -1,0 +1,8 @@
+{
+  "name": "Sistema de Asistencia Escolar",
+  "description": "Sistema integral de gestión de asistencia escolar, cursos por jornada (Mañana/Tarde/Noche), justificativos médicos, reportes y bitácora de auditoría.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
